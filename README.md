@@ -42,17 +42,6 @@ STM32-based fishing bite detection and alert system
 - 🔋 低功耗设计（可扩展）
 
 ---
-
-## 📂 项目结构
-
-```text
-smart-fishing-alert/
-├── README.md
-├── code/        # STM32代码
-├── docs/        # 方案文档
-├── hardware/    # 硬件设计
-└── images/      # 图片资源
-
 ## 🔮 后续计划
 
 - 学习 STM32 基础（GPIO / 输入输出）
@@ -63,7 +52,19 @@ smart-fishing-alert/
 - 项目整体调试与优化
 
 ---
+## 👤 作者
 
-## 🧑‍💻 作者
+-Haoran Fei  
+-Electronic Information Science Student  
+-Currently struggling with STM32 & embedded systems 😅 
+## 📂 项目结构
 
-- fhr（Electronic Information Science Student）
+```text
+smart-fishing-alert/
+├── README.md
+├── code/        # STM32代码
+├── docs/        # 方案文档
+├── hardware/    # 硬件设计
+└── images/      # 图片资源
+
+---
